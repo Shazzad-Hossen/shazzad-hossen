@@ -81,6 +81,42 @@ Passionate about building scalable web apps, dApps, trading automation software,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="45"/>
 </p>
 
+<p><img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/apexchart.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/babelIcon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/c.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/cpp.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/css.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/discord.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/ethers.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/express.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/figma.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/firebase.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/git.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/github.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/jsIcon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/linux.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/mongoDBIcon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/mysql.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/nextjsIcon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/nginix.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/nodejsIcon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/npmIcon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/puppeteer.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/rabbitMq.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/reactIcon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/reactRouter.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/redis.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/reduxIcon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/solidity.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/tailwindIcon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/telegram.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/tsIcon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/vite.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/vscode.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/web3.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/windows.svg" width="45"/>
+ </p>
+
 
 ---
 
