@@ -1,14 +1,14 @@
 # 👋 Hi, I'm **Shazzad Hossen**
 
-### 🚀 Full-Stack Developer | Web3 Developer | Bot Developer | Trading Automation Engineer  
-Passionate about building scalable web apps, dApps, trading automation software, and smart bots.
+### 🚀 Full-Stack Developer | Web3 Developer | Bot Developer | Web &Trading Automation Engineer
+Passionate about building scalable web apps, dApps, trading automation software, web automation software, and smart bots.
 
 ---
 
 ## 🔥 About Me  
-- 💼 Junior Developer at **Coredevs Limited**  
-- 🎓 B.Sc & M.Sc in **Computer Science & Engineering**, Daffodil International University  
-- 🧑‍🏫 Assistant Teacher of Mathematics at **Daffodil University School & College**  
+- 💼 Developer at **Coredevs Limited**  
+- 💼 Former Junior Developer at **Coredevs Limited**  
+- 🎓 B.Sc in **Computer Science & Engineering**, Daffodil International University  
 - 🧠 Experienced in **Web Automation, Blockchain, Web3, Bots, and Full-Stack Apps**  
 - 🛠 Created POS, eCommerce, Trading Bots, dApps, and Automation Tools  
 
@@ -62,9 +62,8 @@ Passionate about building scalable web apps, dApps, trading automation software,
 ---
 
 ## 🔗 Social Links  
-- 🌐 Portfolio: *coming soon*  
-- 💼 LinkedIn: https://linkedin.com  
-- 🐦 Twitter: https://twitter.com  
+- 🌐 Portfolio: https://shazzad.web.app  
+- 💼 LinkedIn: https://linkedin.com/shazzad-srv 
 - 💻 GitHub: https://github.com/shazzad-hossen  
 
 ---
@@ -72,7 +71,4 @@ Passionate about building scalable web apps, dApps, trading automation software,
 ## 📝 Typing Animation  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;Web3+Developer;Bot+Developer;Automation+Engineer;Always+learning+new+things)](https://git.io/typing-svg)
 
----
 
-## ❤️ Thanks for Visiting My Profile  
-Feel free to star ⭐ my repositories if you find something useful!
