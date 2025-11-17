@@ -60,7 +60,7 @@ Passionate about building scalable web apps, dApps, trading automation software,
 
 ### 💳 Payment Gateways
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/SSLCommerz-Logo.png" width="80"/>
+  <img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/apexchart.svg" width="80"/>
   <img src="https://download.logo.wine/logo/Stripe/Stripe-Logo.wine.png" width="80"/>
 </p>
 
