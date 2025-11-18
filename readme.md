@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00e7ff&center=true&vCenter=true&width=650&lines=Passionate+about+building+scalable+systems;+Web+Automation+%7C+Trading+Automation+%7C+Bots;+Experienced+in+Web3+and+Blockchain;Always+learning+new+things)](https://git.io/typing-svg)
 
 
----
 
 ## 🔥 About Me  
 - 💼 Developer at **Coredevs Limited**  
@@ -14,7 +13,6 @@
 - 🧠 Experienced in **Web Automation, Blockchain, Web3, Bots, and Full-Stack Apps**  
 - 🛠 Created POS, eCommerce, Trading Bots, dApps, and Automation Tools  
 
----
 
 ## 🧑‍💻 Tech Stack
 
@@ -67,7 +65,6 @@
 
 
 
----
 
 ## 🧠 What I Can Build
 - ✔ Full-stack web apps (React, Next.js, Node.js, MongoDB)  
@@ -79,7 +76,6 @@
 - ✔ API-driven marketplaces  
 - ✔ Educational platforms  
 
----
 
 # 🏆 GitHub Trophies
 
@@ -87,7 +83,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=shazzad-hossen&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
----
 
 ## 🔗 Social Links  
 - 🌐 Portfolio: https://shazzad.web.app  
