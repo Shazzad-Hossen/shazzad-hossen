@@ -83,21 +83,14 @@
 
 ## 📈 GitHub Stats  
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=shazzad-hossen&show_icons=true&theme=tokyonight" style="width: 100%;height:100%;" />
-    </td>
-    <td align="center" width="50%">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazzad-hossen&theme=tokyonight" style="width: 100%; height:100%;" />
-    </td>
-  </tr>
-</table>
+  <p>
+  <img src="https://github-readme-stats.vercel.app/api?username=shazzad-hossen&show_icons=true&theme=tokyonight" style="width: 100%;height:100%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazzad-hossen&theme=tokyonight" style="width: 100%; height:100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazzad-hossen&layout=compact&theme=tokyonight" style="width: 100%;  max-width: 100%;" />
+  </p>
 
-<p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazzad-hossen&layout=compact&theme=tokyonight" style="width: 100%;  max-width: 100%;" />
 
-</p>
+
 
 ---
 
