@@ -16,65 +16,19 @@ Passionate about building scalable web apps, dApps, trading automation software,
 
 ## 🧑‍💻 Tech Stack
 
-### 🚀 Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
-</p>
-
-### ⚙️ Backend & Testing
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45"/>
-
-</p>
-
-### 🔐 Authentication
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-plain.svg" width="45"/>
-</p>
-
-### ⛓️ Blockchain & Web3
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-</p>
-
-### 🤖 Bot Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="45"/>
-</p>
-
-### 💳 Payment Gateways
-<p>
-  <img src="https://raw.githubusercontent.com/Shazzad-Hossen/portfolio/main/src/assets/svg/apexchart.svg" width="80"/>
-  <img src="https://download.logo.wine/logo/Stripe/Stripe-Logo.wine.png" width="80"/>
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
-
-</p>
 
 
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="45"/>
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/passport/passport-original.svg" width="45"/>
+<div style="
+  background: linear-gradient(135deg, #0f0f0f, #232323);
+  padding: 20px;
+  border-radius: 12px;
+  display: inline-block;
+">
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="45"/>
+<img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/passport/passport-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/apexchart.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/babelIcon.svg" width="45"/>
@@ -110,9 +64,10 @@ Passionate about building scalable web apps, dApps, trading automation software,
 <img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/vscode.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/web3.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/windows.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
- </p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+</p>
+</div>
 
 
 ---
