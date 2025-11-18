@@ -82,11 +82,19 @@
 ---
 
 ## 📈 GitHub Stats  
-![Shazzad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shazzad-hossen&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shazzad-hossen&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shazzad-hossen&show_icons=true&theme=tokyonight" width="100%"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shazzad-hossen&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazzad-hossen&layout=compact&theme=tokyonight" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazzad-hossen&theme=tokyonight" width="100%"/>
+</p>
+
 
 ---
 
