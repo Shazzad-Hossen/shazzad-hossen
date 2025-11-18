@@ -19,8 +19,9 @@ Passionate about building scalable web apps, dApps, trading automation software,
 
 
 <div style="
-  background: #FFFFFF;
- 
+  background: #f3f3f3;
+  padding: 20px;
+  border-radius: 12px;
 ">
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="45"/>
