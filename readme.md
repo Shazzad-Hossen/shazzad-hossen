@@ -18,47 +18,52 @@ Passionate about building scalable web apps, dApps, trading automation software,
 
 
 
-> ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg)
-> ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg)
-> ![](https://cryptologos.cc/logos/solana-sol-logo.png)
-> ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/passport/passport-original.svg)
-> ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/apexchart.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/babelIcon.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/c.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/cpp.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/css.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/discord.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/ethers.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/express.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/figma.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/firebase.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/git.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/github.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/jsIcon.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/linux.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/mongoDBIcon.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/mysql.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/nextjsIcon.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/nginix.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/nodejsIcon.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/npmIcon.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/puppeteer.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/rabbitMq.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/reactIcon.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/reactRouter.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/redis.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/reduxIcon.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/solidity.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/tailwindIcon.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/telegram.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/tsIcon.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/vite.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/vscode.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/web3.svg)
-> ![](https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/windows.svg)
-> ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg)
-> ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="45"/>
+<img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/passport/passport-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/apexchart.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/babelIcon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/c.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/cpp.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/css.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/discord.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/ethers.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/express.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/figma.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/firebase.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/git.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/github.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/jsIcon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/linux.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/mongoDBIcon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/mysql.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/nextjsIcon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/nginix.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/nodejsIcon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/npmIcon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/puppeteer.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/rabbitMq.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/reactIcon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/reactRouter.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/redis.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/reduxIcon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/solidity.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/tailwindIcon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/telegram.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/tsIcon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/vite.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/vscode.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/web3.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/Shazzad-Hossen/shazzad-hossen/main/assets/svg/windows.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+</p>
+
+
 
 ---
 
