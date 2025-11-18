@@ -19,7 +19,7 @@ Passionate about building scalable web apps, dApps, trading automation software,
 
 
 <div style="
-  background: linear-gradient(135deg, #0f0f0f, #232323);
+  background: linear-gradient(135deg, #8b8b8bff, #232323);
   padding: 20px;
   border-radius: 12px;
   display: inline-block;
