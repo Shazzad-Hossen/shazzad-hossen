@@ -86,7 +86,7 @@
 
 ## 🔗 Social Links  
 - 🌐 Portfolio: https://shazzad.web.app  
-- 💼 LinkedIn: https://linkedin.com/shazzad-srv 
+- 💼 LinkedIn: https://linkedin.com/shazzad-sv 
 - 💻 GitHub: https://github.com/shazzad-hossen  
 
 
